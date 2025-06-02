@@ -16,7 +16,7 @@ This repository contains a comprehensive analysis of solar plant performance dat
 
 ```bash
 # Clone the repository
-git clone https://github.com/Dhruv-413/solar-data-analysis.git
+git clone https://github.com/Dhruv-413/EDA.git
 cd solar-data-analysis
 
 # Create and activate virtual environment
